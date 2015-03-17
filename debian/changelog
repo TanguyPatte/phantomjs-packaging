@@ -1,0 +1,17 @@
+phantomjs (2.0.0-0ubuntu3) trusty; urgency=low
+
+  * add install information
+
+ -- Patte Tanguy <tanguy.patte@gmail.com>  Tue, 17 Mar 2015 13:20:15 +0100
+
+phantomjs (2.0.0-0ubuntu2) trusty; urgency=low
+
+  * add missing dependency
+
+ -- Patte Tanguy <tanguy.patte@gmail.com>  Mon, 16 Mar 2015 17:46:21 +0100
+
+phantomjs (2.0.0-0ubuntu1) trusty; urgency=low
+
+  * Initial release for ubuntu 14.04 
+
+ -- Patte Tanguy <tanguy.patte@gmail.com>  Sat, 14 Mar 2015 11:44:07 +0100
